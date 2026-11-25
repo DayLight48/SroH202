@@ -1,17 +1,17 @@
-# ¿QUIÉN SOY?
-Me llamo Nelson Bonilla, mi username name es @SroH202
+# Who am I?
+Mi name is Nelson and my username is @DayLight48, nice to meet you!
 
-# ¿A QUÉ ME DEDICO?
-Actualmente estoy aprendiendo sobre el 'Machine Learning Engineer' con la plataforma de 'Platzi'. Soy un aprendiz novato de python con conocimientos de Git y GitHub.
+# What I do?
+I'm a Junior Python Software Developer, I'm currently learning more about fullstack development with Flask and also I'm starting to learn about Cybersecurity.
 
-# ¿QUÉ ME INTERESA?
-Tengo intereses en todo lo relacionado al mundo de la programación, me encanta el tema de la Inteligencia Artificial y quiero aprender a programarla con python, también tengo interés en la seguridad informática y todo lo que esta lleva de por medio.
+# What am I interested in?
+I love all the tech stuff, currently I'm learning everything that I can related to Python as I want to become a professional with this language. Also I want to start learning about Cybersecurity and improve my developer skills.
 
-# ¿QUÉ BUSCO?
-Actualmente busco colaborar en un equipo para mejorar mis conocimientos sobre python y empezar a mejorar mi experiencia trabajando como programador.
+# What am I looking?
+Currently I'm actively searching to participate and collaborate in all kind of projects with Python so I can improve my developer skills and grow as a Python developer. 
 
 
-Gracias por leer mi perfil y espero que si te interesa mi perfil podamos colaborar juntos en algún proyecto.
+Thank you for checking my profile, I would be more than glad if you want to collaborate with me in a project in the future.
 
 
 <!---
